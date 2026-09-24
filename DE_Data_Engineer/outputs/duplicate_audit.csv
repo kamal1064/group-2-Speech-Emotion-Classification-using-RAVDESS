@@ -1,3 +1,3 @@
-hash,file,file_path,actor_id,emotion,duplicate_group
-48c023f89e123728af492ae2c6d25899,03-01-03-01-02-01-07.wav,..\data\raw\RAVDESS\Actor_07\03-01-03-01-02-01-07.wav,07,happy,1
-48c023f89e123728af492ae2c6d25899,03-01-03-01-02-02-07.wav,..\data\raw\RAVDESS\Actor_07\03-01-03-01-02-02-07.wav,07,happy,1
+file_path,file_name,actor_id,emotion_code,emotion,sample_rate,channels,duration,file_size,hash
+..\data\raw\RAVDESS\Actor_07\03-01-03-01-02-01-07.wav,03-01-03-01-02-01-07.wav,07,03,happy,16000,1,3.4034375,108988,48c023f89e123728af492ae2c6d25899
+..\data\raw\RAVDESS\Actor_07\03-01-03-01-02-02-07.wav,03-01-03-01-02-02-07.wav,07,03,happy,16000,1,3.4034375,108988,48c023f89e123728af492ae2c6d25899

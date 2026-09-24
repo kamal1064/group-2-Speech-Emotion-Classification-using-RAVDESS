@@ -1,11 +1,11 @@
 check,result,status
-total_wav_files,1440,PASS
-metadata_parsing,1440,PASS
-missing_values,0,PASS
-invalid_files,0,PASS
-unreadable_audio,0,PASS
-duplicate_check,2,PASS
-actor_split,"dev:1199, holdout:240",PASS
-sample_rate_check,1,PASS
-channel_check,1,PASS
-preprocessing_check,22050Hz Mono Peak Normalized,PASS
+Total WAV files,1440,PASS
+Metadata rows,1440,PASS
+Missing values,0,PASS
+Invalid filenames,0,PASS
+Audio errors,0,PASS
+Duplicate files,2,PASS
+Development files,1199,PASS
+Holdout files,240,PASS
+Sample rate,1,PASS
+Channels,1,PASS

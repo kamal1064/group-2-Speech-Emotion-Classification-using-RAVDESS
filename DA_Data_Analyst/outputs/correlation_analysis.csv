@@ -1,0 +1,16 @@
+feature_1,feature_2,correlation,absolute_correlation
+duration,file_size,0.9999999999999997,0.9999999999999997
+actor_id,file_size,0.05814965812934714,0.05814965812934714
+actor_id,duration,0.058149658129341496,0.058149658129341496
+emotion_code,duration,-0.008309857394413082,0.008309857394413082
+emotion_code,file_size,-0.008309857394412822,0.008309857394412822
+emotion_code,actor_id,-0.0004403036752543633,0.0004403036752543633
+emotion_code,sample_rate,,
+emotion_code,channels,,
+actor_id,sample_rate,,
+actor_id,channels,,
+sample_rate,channels,,
+sample_rate,duration,,
+sample_rate,file_size,,
+channels,duration,,
+channels,file_size,,
